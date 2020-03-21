@@ -1,2 +1,2 @@
-# Stonks
-Changes all "Stocks" text to "Stonks" system-wide on iOS.
+# GetFree
+Changes the App Store's "GET" text to "Free"

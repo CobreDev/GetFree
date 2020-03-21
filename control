@@ -1,11 +1,11 @@
-Package: xyz.skitty.stonks
-Name: Stonks
+Package: com.mac-user669.getfree
+Name: GetFree
 Depends: mobilesubstrate
 Version: 1.0
 Architecture: iphoneos-arm
-Description: Change all "Stocks" text to "Stonks"
-Depiction: https://skitty.xyz/repo/depictions/?p=xyz.skitty.stonks
-SileoDepiction: https://skitty.xyz/repo/depictions/?s=xyz.skitty.stonks
-Maintainer: Skitty
-Author: Skitty
+Description: Changes the App Store's "GET" text to "Free"
+Depiction: https://mac-user669.github.io/repo/depictions/?p=com.mac-user669.getfree/
+SileoDepiction: https://mac-user669.github.io/repo/sileodepictions/GetFree.json
+Maintainer: mac-user669
+Author: mac-user669
 Section: Tweaks
